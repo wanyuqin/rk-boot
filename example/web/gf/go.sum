@@ -331,6 +331,7 @@ github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFR
 github.com/rogpeppe/go-internal v1.6.1 h1:/FiVV8dS/e+YqF2JvO3yXRFbBLTIuSDkuC7aBOAvL+k=
 github.com/rookie-ninja/rk-entry/v2 v2.2.14 h1:PHzofuw52zfskrgJKC+WIMt1LtoBosrukjWHZ/DKsTE=
 github.com/rookie-ninja/rk-entry/v2 v2.2.14/go.mod h1:P/Fd6Oyvvx0ITbEU2lzO3KkQ9miWVwd84aPaC0LMD0o=
+github.com/rookie-ninja/rk-entry/v2 v2.2.18/go.mod h1:P/Fd6Oyvvx0ITbEU2lzO3KkQ9miWVwd84aPaC0LMD0o=
 github.com/rookie-ninja/rk-gf v1.2.13 h1:qTxwH7IIUS/UguXU/Hi71r7rUTEUVCtFZ1lJri1wlXw=
 github.com/rookie-ninja/rk-gf v1.2.13/go.mod h1:oiMI7Mxezd9eRhaOQ1HyPt4MurGhHHLWsi0THvDdj5U=
 github.com/rookie-ninja/rk-logger v1.2.13 h1:ERxeNZUmszlY4xehHcJRXECPtbjYIXzN8yRIyYyLGsg=

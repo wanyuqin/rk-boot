@@ -49,7 +49,7 @@ require (
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/rookie-ninja/rk-db/redis v1.2.12 // indirect
-	github.com/rookie-ninja/rk-entry/v2 v2.2.14 // indirect
+	github.com/rookie-ninja/rk-entry/v2 v2.2.18 // indirect
 	github.com/rookie-ninja/rk-logger v1.2.13 // indirect
 	github.com/rookie-ninja/rk-query v1.2.14 // indirect
 	github.com/rs/xid v1.3.0 // indirect

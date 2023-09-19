@@ -335,6 +335,7 @@ github.com/rookie-ninja/rk-db/mongodb v1.2.12 h1:DLUdDe99qaJxkTFlcInEs9DR60SuhCf
 github.com/rookie-ninja/rk-db/mongodb v1.2.12/go.mod h1:5e77322LuiOzB1B+nQ2khOTpxGCLPegHTEpGHIbnabo=
 github.com/rookie-ninja/rk-entry/v2 v2.2.14 h1:PHzofuw52zfskrgJKC+WIMt1LtoBosrukjWHZ/DKsTE=
 github.com/rookie-ninja/rk-entry/v2 v2.2.14/go.mod h1:P/Fd6Oyvvx0ITbEU2lzO3KkQ9miWVwd84aPaC0LMD0o=
+github.com/rookie-ninja/rk-entry/v2 v2.2.18/go.mod h1:P/Fd6Oyvvx0ITbEU2lzO3KkQ9miWVwd84aPaC0LMD0o=
 github.com/rookie-ninja/rk-gin/v2 v2.2.16 h1:2Sil0e1Yre3eoVPoW9ztLM0bPBrtAGE0A1S7uMg6R80=
 github.com/rookie-ninja/rk-gin/v2 v2.2.16/go.mod h1:8bAcc6z/T9O+Qgx1vf7Yu9WKQg782Yav5UJG+cvQteI=
 github.com/rookie-ninja/rk-logger v1.2.13 h1:ERxeNZUmszlY4xehHcJRXECPtbjYIXzN8yRIyYyLGsg=
